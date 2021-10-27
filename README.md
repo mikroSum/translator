@@ -6,4 +6,5 @@ Please add the languages into which you successfully translated:
 - french
 - german
 - norwegian
+- swedish
 - ...
