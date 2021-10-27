@@ -5,4 +5,5 @@ Please add the languages into which you successfully translated:
 - serbian
 - french
 - german
+- norwegian
 - ...
